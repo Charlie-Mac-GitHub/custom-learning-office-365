@@ -12,9 +12,9 @@
   },
    {
     "Id": "ad22e90d-73b2-4df2-9323-530e7fc2bbdd",
-    "Title": "testing web page 2",
+    "Title": "testing sharepoint 2",
     "Description": "",
-    "Url": "https://systemscharliemac.sharepoint.com/sites/CMAOperations",
+    "Url": "https://systemscharliemac.sharepoint.com/sites/CMAOperations/?embed=true",
     "TechnologyId": "",
     "SubjectId": "",
     "Source": "CMA",
